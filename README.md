@@ -1,4 +1,7 @@
 # node-red-contrib-uibvue
+
+**DEPRECATED. Please see node-red-contrib-uibuilder which is a comprehensive and flexible tool for building user interfaces using any front-end library. **
+
 An extension to uibuilder that uses VueJS to help build user interfaces in conjunction with Node-RED.
 
 See the [GitHub WIKI](https://github.com/TotallyInformation/node-red-contrib-uibvue/wiki) for design information.
